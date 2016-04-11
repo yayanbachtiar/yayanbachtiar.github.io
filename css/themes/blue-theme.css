@@ -4,94 +4,94 @@ Author URI : http://www.markups.io/
 ========================================*/
 
 a {
-  color: #78ADC9;
+  color: #2196F3;
 }
 
 .navbar-fixed nav {
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 
 .side-nav li:hover{
-  background-color: #78ADC9;  
+  background-color: #2196F3;
 }
 .btn ,.btn-large{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .btn:hover, .btn-large:hover {
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .home-title span{
-  color: #78ADC9;
+  color: #2196F3;
 }
 .about-inner-right>h3{
-  color: #78ADC9;
+  color: #2196F3;
 }
 .personal-information>h3{
-  color: #78ADC9;
+  color: #2196F3;
 }
 .title{
-  color: #78ADC9;
+  color: #2196F3;
 }
 
 .card-subtitle {
-  color: #78ADC9;
+  color: #2196F3;
 }
 .portfolio-top{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .filter {
-  color: #78ADC9;
+  color: #2196F3;
 }
 .filter:focus{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 #portfolio-list .mix:hover > a::before {
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .counter{
-  color: #78ADC9;
+  color: #2196F3;
 }
 
 .pro-bar-container.color-wisteria {
-  border-color: #78ADC9;
+  border-color: #2196F3;
 }
 
 .pro-bar.color-amethyst {
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .call-to-about i{
-  color: #78ADC9;
+  color: #2196F3;
 }
 
 .blog-post .card-action a{
-  color: #78ADC9;
+  color: #2196F3;
 }
 
 .post-comment:hover{
-  color: #78ADC9 !important;
+  color: #2196F3 !important;
 }
 
 .readmore-btn:hover{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 #experience{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 
 .card-title i {
-  color: #78ADC9;
+  color: #2196F3;
 }
 .customNavigation i{
-  color: #78ADC9;
+  color: #2196F3;
 }
 #testimonial{
-  background-color: #78ADC9;  
+  background-color: #2196F3;
 }
 .testimonial-content h3 {
-  color: #78ADC9;
+  color: #2196F3;
 }
 .footer-top{
-  background-color:#78ADC9; 
+  background-color:#2196F3;
 }
 input[type="text"]:focus:not([readonly]) + label,
 input[type="password"]:focus:not([readonly]) + label,
@@ -104,7 +104,7 @@ input[type="tel"]:focus:not([readonly]) + label,
 input[type="number"]:focus:not([readonly]) + label,
 input[type="search"]:focus:not([readonly]) + label,
 textarea.materialize-textarea:focus:not([readonly]) + label {
-  color: #78ADC9;
+  color: #2196F3;
 }
 input[type="text"]:focus:not([readonly]),
 input[type="password"]:focus:not([readonly]),
@@ -117,63 +117,63 @@ input[type="tel"]:focus:not([readonly]),
 input[type="number"]:focus:not([readonly]),
 input[type="search"]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #78ADC9;
-  box-shadow: 0 1px 0 0 #78ADC9;
+  border-bottom: 1px solid #2196F3;
+  box-shadow: 0 1px 0 0 #2196F3;
 }
 .submit-btn{
-  color: #78ADC9;  
+  color: #2196F3;
 }
 .submit-btn:hover,
 .submit-btn:focus{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .overlay-header{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .blog-content blockquote {
-  border-left: 5px solid #78ADC9;
+  border-left: 5px solid #2196F3;
 }
 .share-area h4 i,
 .tag-area h4 i {
-  color: #78ADC9;
+  color: #2196F3;
 }
 .share-area a:hover,
 .share-area a:focus{
-  color: #78ADC9;
+  color: #2196F3;
 }
 .author-comments {
-  background-color: #78ADC9 !important;
+  background-color: #2196F3 !important;
 }
 .reply-btn:hover{
-  background-color: #78ADC9; 
+  background-color: #2196F3;
 }
 .pagination li.active{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .card .card-action a {
-  color: #78ADC9;  
+  color: #2196F3;
 }
 .tagcloud a:hover,
 .tagcloud a:focus{
   color: #fff;
-  background-color: #78ADC9;
-  border-color: #78ADC9;
+  background-color: #2196F3;
+  border-color: #2196F3;
 }
 .prev-post:hover,
 .prev-post:focus,
 .next-post:hover,
 .next-post:focus{
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 .submit-btn{
-  color: #78ADC9;  
+  color: #2196F3;
 }
 .side-nav li:hover,
 .side-nav li.active {
-  background-color: #78ADC9; 
+  background-color: #2196F3;
 }
 .progress .indeterminate {
-  background-color: #78ADC9;
+  background-color: #2196F3;
 }
 
 /*=======================================
